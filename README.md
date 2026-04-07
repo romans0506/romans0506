@@ -26,7 +26,7 @@
 - 🖥️ Operating Systems
 - 🤖 Large Language Models (LLMs)
 - ☁️ Cloud Computing
-- - 🧠 AI / ML — computer vision, real-time inference, deep learning
+- 🧠 AI / ML — computer vision, real-time inference, deep learning
   
 
 ### Featured Project
