@@ -1,8 +1,7 @@
 ## Hey, I'm Roman 👋
 
 🎓 Student & Developer based in Vienna, Austria 🇦🇹  
-🚀 Building [Qadam](https://github.com/romans0506/Qadam) - AI-powered university application platform  
-📚 Currently learning Operating Systems, Information Security, LLMs & Cloud Computing  
+
 
 ### Tech I work with
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=fff)
