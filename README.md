@@ -1,7 +1,7 @@
 ## Hey, I'm Roman 👋
 
 🎓 Student & Developer based in Vienna, Austria 🇦🇹  
-🚀 Building [Qadam](https://github.com/romans0506/Qadam) — AI-powered university application platform  
+🚀 Building [Qadam](https://github.com/romans0506/Qadam) - AI-powered university application platform  
 📚 Currently learning Operating Systems, Information Security, LLMs & Cloud Computing  
 
 ### Tech I work with
@@ -16,17 +16,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
 
 ### Knowledge
-- **Python / ML** — computer vision, real-time inference pipelines, FastAPI
+- **Python / ML** - computer vision, real-time inference pipelines, FastAPI
 - **Algorithms & Data Structures** — sorting, graphs, dynamic programming, trees
-- **C++** — OOP, STL, memory management
-- **JavaScript / TypeScript** — full-stack web development
-- **SQL** — PostgreSQL, queries, joins, indexes, RLS
+- **C++** - OOP, STL, memory management
+- **JavaScript / TypeScript** - full-stack web development
+- **SQL** - PostgreSQL, queries, joins, indexes, RLS
 
 ### Currently Learning
 - 🖥️ Operating Systems
 - 🤖 Large Language Models (LLMs)
 - ☁️ Cloud Computing
-- 🧠 AI / ML — computer vision, real-time inference, deep learning
+- 🧠 AI / ML - computer vision, real-time inference, deep learning
   
 
 ### Featured Project
@@ -37,6 +37,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romans0506&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true)
 
 ---
-*Currently working on Qadam — helping students find their dream university, and exploring AI/ML*
+*Currently working on Qadam - helping students find their dream university, and exploring AI/ML*
 
 
