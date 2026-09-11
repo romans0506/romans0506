@@ -14,7 +14,7 @@
 
 ## Knowledge
 
-- **Python** – scripting, APIs with FastAPI
+- **Python** – scripting,numpy,pandas,scikit-learn, APIs with FastAPI
 - **Algorithms & Data Structures** — sorting, graphs, dynamic programming, trees
 - **C++** – OOP, STL, memory management
 - **JavaScript / TypeScript** – full-stack web development
@@ -25,7 +25,7 @@
 
 - 📈 **Supervised Machine Learning** — regression, classification, model evaluation
 - 🧠 **Deep Learning** — neural networks, training and tuning
-- 🐍 NumPy, pandas, scikit-learn, PyTorch
+- 🐍  PyTorch
 - 🤖 Large Language Models (LLMs)
 - ☁️ Cloud Computing
 
