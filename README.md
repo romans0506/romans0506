@@ -1,9 +1,9 @@
-## Hey, I'm Roman 👋
+# Hey, I'm Roman 👋
 
-🎓 Student & Developer based in Vienna, Austria 🇦🇹  
+🎓 Student & Developer based in Vienna, Austria 🇦🇹
 
+## Tech I work with
 
-### Tech I work with
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -12,28 +12,32 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
 
-### Knowledge
-- **Python / ML** - computer vision, real-time inference pipelines, FastAPI
-- **Algorithms & Data Structures** — sorting, graphs, dynamic programming, trees
-- **C++** - OOP, STL, memory management
-- **JavaScript / TypeScript** - full-stack web development
-- **SQL** - PostgreSQL, queries, joins, indexes, RLS
+## Knowledge
 
-### Currently Learning
-- 🖥️ Operating Systems
+- **Python** – scripting, APIs with FastAPI
+- **Algorithms & Data Structures** — sorting, graphs, dynamic programming, trees
+- **C++** – OOP, STL, memory management
+- **JavaScript / TypeScript** – full-stack web development
+- **SQL** – PostgreSQL, queries, joins, indexes, RLS
+- **Operating Systems** – processes, memory, concurrency
+
+## Currently Learning
+
+- 📈 **Supervised Machine Learning** — regression, classification, model evaluation
+- 🧠 **Deep Learning** — neural networks, training and tuning
+- 🐍 NumPy, pandas, scikit-learn, PyTorch
 - 🤖 Large Language Models (LLMs)
 - ☁️ Cloud Computing
-- 🧠 AI / ML - computer vision, real-time inference, deep learning
-  
 
-### Featured Project
-[![Qadam](https://github-readme-stats.vercel.app/api/pin/?username=romans0506&repo=Qadam&theme=github_dark&hide_border=true)](https://github.com/romans0506/Qadam)
+## Featured Project
+
+[![MusicFreak](https://github-readme-stats.vercel.app/api/pin/?username=romans0506&repo=MusicFreak&theme=github_dark&hide_border=true)](https://github.com/romans0506/MusicFreak)
 [![EmotionPomodoro](https://github-readme-stats.vercel.app/api/pin/?username=romans0506&repo=EmotionPomodoro&theme=github_dark&hide_border=true)](https://github.com/romans0506/EmotionPomodoro)
 
-### Stats
+## Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romans0506&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true)
 
 ---
-*Currently working on Qadam - helping students find their dream university, and exploring AI/ML*
 
-
+*Currently learning machine learning and deep learning — supervised learning first, then neural networks.*
