@@ -14,6 +14,7 @@
 
 ## Knowledge
 
+- **Supervised Machine Learning** — regression, classification
 - **Python** – scripting,numpy,pandas,scikit-learn, APIs with FastAPI
 - **Algorithms & Data Structures** — sorting, graphs, dynamic programming, trees
 - **C++** – OOP, STL, memory management
@@ -22,8 +23,6 @@
 - **Operating Systems** – processes, memory, concurrency
 
 ## Currently Learning
-
-- 📈 **Supervised Machine Learning** — regression, classification, model evaluation
 - 🧠 **Deep Learning** — neural networks, training and tuning
 - 🐍  PyTorch
 - 🤖 Large Language Models (LLMs)
