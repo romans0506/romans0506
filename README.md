@@ -18,6 +18,7 @@
 - **Python** – scripting,numpy,pandas,scikit-learn, APIs with FastAPI
 - **Algorithms & Data Structures** — sorting, graphs, dynamic programming, trees
 - **C++** – OOP, STL, memory management
+- **Java** - OOP
 - **JavaScript / TypeScript** – full-stack web development
 - **SQL** – PostgreSQL, queries, joins, indexes, RLS
 - **Operating Systems** – processes, memory, concurrency
